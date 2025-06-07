@@ -12,4 +12,3 @@ npm-debug.log*
 # Build output (if you're compiling TypeScript)
 dist/
 build/
-package-lock.json
