@@ -11,12 +11,12 @@
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts",
     "build": "tsc"
   },
- "dependencies": {
+"dependencies": {
   "cors": "^2.8.5",
   "dotenv": "^16.5.0",
   "express": "^4.21.2",
   "mongoose": "^7.8.7",
-  "@types/node": "^20.17.57" 
+  "@types/node": "^20.17.57"
 },
 "devDependencies": {
   "@types/cors": "^2.8.17",
@@ -26,4 +26,5 @@
   "ts-node-dev": "^2.0.0",
   "typescript": "^5.8.3"
 }
+
 }
